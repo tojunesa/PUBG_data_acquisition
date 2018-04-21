@@ -1,1 +1,2 @@
 # PUBG_data_acquisition
+The PUBGData is a python script that defines two functions. The first one renders user to get the last match's id of a specific player through its name. The second function gets the trace of a specific player in a specific match with the name of the player and the id of the match. Both of the functions utilize PUBG's open API and requires a key to access. Combining the two functions, one can plot someone's trace in his matches.
